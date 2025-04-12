@@ -1,9 +1,7 @@
 <p align="center">
   <img src="capa-github.png" alt="Capa do GitHub de Gilson da Silva" />
 </p>
-<p align="center">
-  <img src="capa-github.png" alt="Capa do GitHub de Gilson da Silva" width="100%" />
-</p>
+
 # 👋 Olá, eu sou Gilson da Silva!
 
 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, ideias e experimentos que estou desenvolvendo ou que já concluí. Gosto de aprender, colaborar e compartilhar conhecimento com a comunidade. 🚀
