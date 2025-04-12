@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="capa-github.png" alt="Capa do GitHub de Gilson da Silva" />
+  <img src="capa-github.png" alt="Capa do GitHub de Gilson da Silva" width:100% />
 </p>
 
 # 👋 Olá, eu sou Gilson da Silva!
